@@ -1454,7 +1454,7 @@ The loop body runs 100 million times, so it quickly becomes hot code. The JIT co
 - Expecting full speed immediately. Java programs need a short warm-up period.
 
 
-
+Fork
 
 
 
